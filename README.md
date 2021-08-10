@@ -1,4 +1,9 @@
+## Assalamualaikum
 ### Hi there 👋
+
+Just sharing out scripts or automation ideas for the benefit of all.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge)
 
 <!--
 **zubir2k/zubir2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
