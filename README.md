@@ -1,6 +1,7 @@
 ## Assalamualaikum
 ### Hi there 👋
 
+I'm just an average tech enthusiast. Always look for ways to simplify method and processes.\
 Just sharing out scripts or automation ideas for the benefit of all.\
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N55T9O6)
 
