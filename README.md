@@ -2,7 +2,8 @@
 ### Hi there 👋
 
 I'm just an average tech enthusiast. Always look for ways to simplify method and processes.\
-Just sharing out scripts or automation ideas for the benefit of all.\
+Just sharing out scripts or automation ideas for the benefit of all.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N55T9O6)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge)
