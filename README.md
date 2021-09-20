@@ -7,6 +7,8 @@ Just sharing out scripts or automation ideas for the benefit of all.
 There's also a bunch of snippets on Home Assistant automation here:\
 https://gist.github.com/zubir2k
 
+![Zubir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubir2k&theme=vue-dark&show_icons=true)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://zbrj.ml/buymecoffee)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge)
