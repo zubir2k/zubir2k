@@ -11,7 +11,7 @@ https://gist.github.com/zubir2k
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://zbrj.ml/buymecoffee)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge) [![Donate](https://img.shields.io/badge/donate-Coffee-yellow.svg)](https://www.buymeacoffee.com/zubirjamal)
 
 <!--
 **zubir2k/zubir2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
