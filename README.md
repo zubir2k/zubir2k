@@ -4,6 +4,9 @@
 I'm just an average tech enthusiast. Always look for ways to simplify method and processes.\
 Just sharing out scripts or automation ideas for the benefit of all.
 
+If you consider giving support, you can either click the button below or give a ⭐ to my repositories.\
+Much thanks 😉
+
 There's also a bunch of snippets on Home Assistant automation here:\
 https://gist.github.com/zubir2k
 
