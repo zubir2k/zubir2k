@@ -12,12 +12,11 @@ https://gist.github.com/zubir2k
 
 ![Zubir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubir2k&theme=vue-dark&show_icons=true)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://zbrj.ml/buymecoffee) 
-[![FPX](https://user-images.githubusercontent.com/1905339/231101049-e3207541-cce8-403e-b7a4-95ebd297f573.png)](https://zbrj.ml/fpx)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge) [![Donate](https://img.shields.io/badge/donate-Coffee-yellow.svg)](https://www.buymeacoffee.com/zubirjamal)
+[![Donate](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=flat&logoColor=white)](https://www.buymeacoffee.com/zubirjamal)
+[![ko-fi](https://img.shields.io/badge/donate-Coffee-yellow.svg)](https://zbrj.ml/fpx)
 
 <!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge) 
 **zubir2k/zubir2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
