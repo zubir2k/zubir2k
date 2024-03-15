@@ -12,8 +12,10 @@ https://gist.github.com/zubir2k
 
 ![Zubir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubir2k&theme=vue-dark&show_icons=true)
 
-[![Donate](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=flat&logoColor=white)](https://www.buymeacoffee.com/zubirjamal)
-[![ko-fi](https://img.shields.io/badge/donate-Coffee-yellow.svg)](https://zubirco.de/fpx)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCJYvY4zLKi6KKbUvOplvQew)](https://zbrj.ml/subscribe)
+[![FPX](https://img.shields.io/badge/fpx-green?style=flat&logo=cashapp&logoColor=white&label=toyyibpay)](https://zubirco.de/fpx)
+[![BuyCoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?logo=buy-me-a-coffee&style=flat&logoColor=white)](https://www.buymeacoffee.com/zubirjamal)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-%23d32f2f?logo=ko-fi&style=flat&logoColor=white)](https://ko-fi.com/zubirjamal)
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge) 
