@@ -10,15 +10,20 @@ Much thanks 😉
 There's also a bunch of snippets on Home Assistant automation here:\
 https://gist.github.com/zubir2k
 
-![Zubir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubir2k&theme=vue-dark&show_icons=true)
+![Stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zubir2k&theme=transparent)
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCJYvY4zLKi6KKbUvOplvQew)](https://zbrj.ml/subscribe)
+[![Sponsors](https://img.shields.io/badge/Sponsor-green?style=flat&logo=githubsponsors&label=Github)](https://github.com/sponsors/zubir2k)
 [![FPX](https://img.shields.io/badge/fpx-green?style=flat&logo=cashapp&logoColor=white&label=toyyibpay)](https://zubirco.de/fpx)
 [![BuyCoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?logo=buy-me-a-coffee&style=flat&logoColor=white)](https://www.buymeacoffee.com/zubirjamal)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-%23d32f2f?logo=ko-fi&style=flat&logoColor=white)](https://ko-fi.com/zubirjamal)
 
 <!--
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=zubir2k&theme=transparent)
+<iframe src="https://github.com/sponsors/zubir2k/button" title="Sponsor zubir2k" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+![Zubir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubir2k&theme=vue-dark&show_icons=true)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCJYvY4zLKi6KKbUvOplvQew)](https://zbrj.ml/subscribe)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zubir2k.zubir2k.visitor-badge) 
+
 **zubir2k/zubir2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
