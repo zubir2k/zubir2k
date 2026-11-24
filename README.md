@@ -1,20 +1,29 @@
-## Assalamualaikum
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:00b4d8&height=170&section=header&text=Zubir%20Jamal&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Just%20an%20everyday%20tech%20enthusiast.&descAlignY=54&descSize=16" width="100%" />
 
-I'm just an average tech enthusiast. Always look for ways to simplify method and processes.\
-Just sharing out scripts or automation ideas for the benefit of all.
+### Assalamualaikum
+Hi there 👋
 
-If you consider giving support, you can either click the button below or give a ⭐ to my repositories.\
-Much thanks 😉
+Just an everyday tech enthusiast who loves breaking down complex processes into simple, automated workflows.
 
-There's also a bunch of snippets on Home Assistant automation here:\
-https://gist.github.com/zubir2k
+I build and share scripts, Home Assistant automations, and homelab setups in the hope they help others along the way. \
+Feel free to dig through my repositories or browse my collection of quick snippets on Gists. 
 
-![Stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zubir2k&theme=transparent)
+[![gist](https://img.shields.io/badge/Github-Gist-blue?logo=github)](https://gist.github.com/zubir2k)&nbsp;![Follow](https://img.shields.io/github/followers/zubir2k)
+
+If you'd like to show some support, a ⭐ on my projects!
+
+![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubir2k&theme=transparent&name=About%20me)
+
+![Stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zubir2k&theme=transparent)&nbsp;![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zubir2k&theme=transparent)
+
+### ☕ Support My Work
+
+If my automations or scripts saved you some time, consider fueling my next project! 😉 \
+Support via international platforms or local Malaysian FPX:
 
 [![Sponsors](https://img.shields.io/badge/Sponsor-green?style=flat&logo=githubsponsors&label=Github)](https://github.com/sponsors/zubir2k)
-[![FPX](https://img.shields.io/badge/fpx-green?style=flat&logo=cashapp&logoColor=white&label=toyyibpay)](https://zubirco.de/fpx)
-[![BuyCoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?logo=buy-me-a-coffee&style=flat&logoColor=white)](https://www.buymeacoffee.com/zubirjamal)
+[![FPX](https://img.shields.io/badge/FPX-green?style=flat&logo=cashapp&logoColor=white&label=DuitNow)](https://zubirco.de/fpx)
+[![BuyCoffee](https://img.shields.io/badge/Buy%20me%20coffee-yellow?logo=buy-me-a-coffee&style=flat&logoColor=white)](https://www.buymeacoffee.com/zubirjamal)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-%23d32f2f?logo=ko-fi&style=flat&logoColor=white)](https://ko-fi.com/zubirjamal)
 
 <!--
