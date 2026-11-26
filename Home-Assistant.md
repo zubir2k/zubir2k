@@ -37,5 +37,8 @@ A complete directory of my custom integrations for Home Assistant, built for Mal
 | <img src="https://raw.githubusercontent.com/zubir2k/homeassistant-gasrenew/main/custom_components/gas_renew/brand/icon.png" width="20" align="absmiddle" /> [gasrenew](https://github.com/zubir2k/homeassistant-gasrenew) | LPG cylinder monitoring automation based on date comparison | ![Stars](https://img.shields.io/github/stars/zubir2k/homeassistant-gasrenew?style=flat-square&label=%E2%AD%90) |
 | <img src="https://raw.githubusercontent.com/zubir2k/homeassistant-furbyconnect/main/custom_components/furby_connect/brand/icon.png" width="20" align="absmiddle" /> [furbyconnect](https://github.com/zubir2k/homeassistant-furbyconnect) | Bring your old Furby Connect (Hasbro, 2016) into Home Assistant | ![Stars](https://img.shields.io/github/stars/zubir2k/homeassistant-furbyconnect?style=flat-square&label=%E2%AD%90) |
 
+## 🎈 Live Demo
+Head over to the live demo [page](https://zubir.is-a.dev/demo).
+
 ## 📢 Join our HAMY community
 On Facebook [Home Assistant Malaysia](https://www.facebook.com/groups/homeassistantmalaysia)
