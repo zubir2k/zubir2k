@@ -4,7 +4,8 @@
 Hi there 👋
 
 By day, I work in **digital payments**. After hours, I'm a tech enthusiast who loves breaking down complex processes into simple, automated workflows.
-I build and share Home Assistant custom integrations, automation scripts, and homelab setups in the hope they help others along the way. \
+I build and share Home Assistant custom integrations, automation scripts, and homelab setups in the hope they help others along the way. 
+
 Feel free to dig through my repositories or browse my collection of quick snippets on Gists.
 
 [![gist](https://img.shields.io/badge/Github-Gist-blue?logo=github)](https://gist.github.com/zubir2k)&nbsp;![Follow](https://img.shields.io/github/followers/zubir2k)
