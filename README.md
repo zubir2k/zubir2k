@@ -1,12 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:00b4d8&height=170&section=header&text=Zubir%20Jamal&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Just%20an%20everyday%20tech%20enthusiast.&descAlignY=54&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:00b4d8&height=170&section=header&text=Zubir%20Jamal&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Digital%20Payments%20-%20Tech%20Enthusiast.&descAlignY=54&descSize=16" width="100%" />
 
 ### Assalamualaikum
 Hi there 👋
 
-Just an everyday tech enthusiast who loves breaking down complex processes into simple, automated workflows.
-
-I build and share scripts, Home Assistant automations, and homelab setups in the hope they help others along the way. \
-Feel free to dig through my repositories or browse my collection of quick snippets on Gists. 
+By day, I work in **digital payments**. After hours, I'm a tech enthusiast who loves breaking down complex processes into simple, automated workflows.
+I build and share Home Assistant custom integrations, automation scripts, and homelab setups in the hope they help others along the way. \
+Feel free to dig through my repositories or browse my collection of quick snippets on Gists.
 
 [![gist](https://img.shields.io/badge/Github-Gist-blue?logo=github)](https://gist.github.com/zubir2k)&nbsp;![Follow](https://img.shields.io/github/followers/zubir2k)
 
@@ -22,6 +21,7 @@ I maintain several custom integrations for Home Assistant - focused on Malaysian
 
 [![Home Assistant Integrations](https://img.shields.io/badge/Home%20Assistant-Custom%20Integrations-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)](Home-Assistant.md)
 
+<!--
 ### ☕ Support My Work
 
 If my automations or scripts saved you some time, consider fueling my next project! 😉 \
@@ -32,7 +32,6 @@ Support via international platforms or local Malaysian FPX:
 [![BuyCoffee](https://img.shields.io/badge/Buy%20me%20coffee-yellow?logo=buy-me-a-coffee&style=flat&logoColor=white)](https://www.buymeacoffee.com/zubirjamal)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-%23d32f2f?logo=ko-fi&style=flat&logoColor=white)](https://ko-fi.com/zubirjamal)
 
-<!--
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=zubir2k&theme=transparent)
 <iframe src="https://github.com/sponsors/zubir2k/button" title="Sponsor zubir2k" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 ![Zubir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubir2k&theme=vue-dark&show_icons=true)
